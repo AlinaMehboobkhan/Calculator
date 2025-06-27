@@ -6,7 +6,7 @@ A simple and stylish calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 
-You can view the live version here: **[Add GitHub Pages link if deployed]**
+You can view the live version here: **[Add GitHub Pages link if deployed]](https://alinamehboobkhan.github.io/Calculator/)**
 
 ---
 
